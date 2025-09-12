@@ -59,6 +59,7 @@ out/
 # Visual Studio Code settings
 .vscode/
 .vs/
+.vs
 
 # ASP.NET Core files
 wwwroot/
