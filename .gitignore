@@ -39,3 +39,33 @@
 
 # debug information files
 *.dwo
+
+# Build results
+bin/
+obj/
+out/
+
+# .gitignore recomendado para .NET
+*.build.json
+*.endpoints.json
+
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code settings
+.vscode/
+.vs/
+
+# ASP.NET Core files
+wwwroot/
+
+# Publish output
+*.publish/
+
+# Static Web Assets
+**/staticwebassets.build.json
+**/staticwebassets.endpoints.json
