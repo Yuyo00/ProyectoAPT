@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "S:\\Antonia\\Documents\\Duoc\\Ultimo\\Codigo\\ProyectoAPT\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9491F7E8-1B30-466E-A2F4-0DB43F094A50}|ProyectoAPT\\ProyectoAPT.csproj|s:\\antonia\\documents\\duoc\\ultimo\\codigo\\proyectoapt\\proyectoapt\\migrations\\20250912205445_creacioncamposnuevos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9491F7E8-1B30-466E-A2F4-0DB43F094A50}|ProyectoAPT\\ProyectoAPT.csproj|solutionrelative:proyectoapt\\migrations\\20250912205445_creacioncamposnuevos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9491F7E8-1B30-466E-A2F4-0DB43F094A50}|ProyectoAPT\\ProyectoAPT.csproj|s:\\antonia\\documents\\duoc\\ultimo\\codigo\\proyectoapt\\proyectoapt\\datos\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9491F7E8-1B30-466E-A2F4-0DB43F094A50}|ProyectoAPT\\ProyectoAPT.csproj|solutionrelative:proyectoapt\\datos\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9491F7E8-1B30-466E-A2F4-0DB43F094A50}|ProyectoAPT\\ProyectoAPT.csproj|s:\\antonia\\documents\\duoc\\ultimo\\codigo\\proyectoapt\\proyectoapt\\models\\appusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9491F7E8-1B30-466E-A2F4-0DB43F094A50}|ProyectoAPT\\ProyectoAPT.csproj|solutionrelative:proyectoapt\\models\\appusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9491F7E8-1B30-466E-A2F4-0DB43F094A50}|ProyectoAPT\\ProyectoAPT.csproj|s:\\antonia\\documents\\duoc\\ultimo\\codigo\\proyectoapt\\proyectoapt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9491F7E8-1B30-466E-A2F4-0DB43F094A50}|ProyectoAPT\\ProyectoAPT.csproj|solutionrelative:proyectoapt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9491F7E8-1B30-466E-A2F4-0DB43F094A50}|ProyectoAPT\\ProyectoAPT.csproj|s:\\antonia\\documents\\duoc\\ultimo\\codigo\\proyectoapt\\proyectoapt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9491F7E8-1B30-466E-A2F4-0DB43F094A50}|ProyectoAPT\\ProyectoAPT.csproj|solutionrelative:proyectoapt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +30,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250912205445_CreacionCamposNuevos.cs",
+              "DocumentMoniker": "S:\\Antonia\\Documents\\Duoc\\Ultimo\\Codigo\\ProyectoAPT\\ProyectoAPT\\Migrations\\20250912205445_CreacionCamposNuevos.cs",
+              "RelativeDocumentMoniker": "ProyectoAPT\\Migrations\\20250912205445_CreacionCamposNuevos.cs",
+              "ToolTip": "S:\\Antonia\\Documents\\Duoc\\Ultimo\\Codigo\\ProyectoAPT\\ProyectoAPT\\Migrations\\20250912205445_CreacionCamposNuevos.cs",
+              "RelativeToolTip": "ProyectoAPT\\Migrations\\20250912205445_CreacionCamposNuevos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T20:54:47.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppUsuario.cs",
+              "DocumentMoniker": "S:\\Antonia\\Documents\\Duoc\\Ultimo\\Codigo\\ProyectoAPT\\ProyectoAPT\\Models\\AppUsuario.cs",
+              "RelativeDocumentMoniker": "ProyectoAPT\\Models\\AppUsuario.cs",
+              "ToolTip": "S:\\Antonia\\Documents\\Duoc\\Ultimo\\Codigo\\ProyectoAPT\\ProyectoAPT\\Models\\AppUsuario.cs",
+              "RelativeToolTip": "ProyectoAPT\\Models\\AppUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T20:14:47.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "S:\\Antonia\\Documents\\Duoc\\Ultimo\\Codigo\\ProyectoAPT\\ProyectoAPT\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoAPT\\Program.cs",
+              "ToolTip": "S:\\Antonia\\Documents\\Duoc\\Ultimo\\Codigo\\ProyectoAPT\\ProyectoAPT\\Program.cs",
+              "RelativeToolTip": "ProyectoAPT\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T15:55:32.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "S:\\Antonia\\Documents\\Duoc\\Ultimo\\Codigo\\ProyectoAPT\\ProyectoAPT\\appsettings.json",
+              "RelativeDocumentMoniker": "ProyectoAPT\\appsettings.json",
+              "ToolTip": "S:\\Antonia\\Documents\\Duoc\\Ultimo\\Codigo\\ProyectoAPT\\ProyectoAPT\\appsettings.json",
+              "RelativeToolTip": "ProyectoAPT\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-12T15:47:19.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "S:\\Antonia\\Documents\\Duoc\\Ultimo\\Codigo\\ProyectoAPT\\ProyectoAPT\\Datos\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ProyectoAPT\\Datos\\ApplicationDbContext.cs",
+              "ToolTip": "S:\\Antonia\\Documents\\Duoc\\Ultimo\\Codigo\\ProyectoAPT\\ProyectoAPT\\Datos\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ProyectoAPT\\Datos\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T15:43:04.234Z"
             }
           ]
         }
