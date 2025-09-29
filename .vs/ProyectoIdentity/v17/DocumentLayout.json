@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prryd\\source\\repos\\ProyectoIdentity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA52A5C8-44F6-4510-B69C-28EAB655D7AC}|ProyectoIdentity\\ProyectoIdentity.csproj|c:\\users\\prryd\\source\\repos\\proyectoidentity\\proyectoidentity\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA52A5C8-44F6-4510-B69C-28EAB655D7AC}|ProyectoIdentity\\ProyectoIdentity.csproj|solutionrelative:proyectoidentity\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA52A5C8-44F6-4510-B69C-28EAB655D7AC}|ProyectoIdentity\\ProyectoIdentity.csproj|c:\\users\\prryd\\source\\repos\\proyectoidentity\\proyectoidentity\\views\\cuentas\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA52A5C8-44F6-4510-B69C-28EAB655D7AC}|ProyectoIdentity\\ProyectoIdentity.csproj|solutionrelative:proyectoidentity\\views\\cuentas\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA52A5C8-44F6-4510-B69C-28EAB655D7AC}|ProyectoIdentity\\ProyectoIdentity.csproj|c:\\users\\prryd\\source\\repos\\proyectoidentity\\proyectoidentity\\views\\shared\\_loginregistrovistaparcial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA52A5C8-44F6-4510-B69C-28EAB655D7AC}|ProyectoIdentity\\ProyectoIdentity.csproj|solutionrelative:proyectoidentity\\views\\shared\\_loginregistrovistaparcial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Registro.cshtml",
+              "DocumentMoniker": "C:\\Users\\prryd\\source\\repos\\ProyectoIdentity\\ProyectoIdentity\\Views\\Cuentas\\Registro.cshtml",
+              "RelativeDocumentMoniker": "ProyectoIdentity\\Views\\Cuentas\\Registro.cshtml",
+              "ToolTip": "C:\\Users\\prryd\\source\\repos\\ProyectoIdentity\\ProyectoIdentity\\Views\\Cuentas\\Registro.cshtml",
+              "RelativeToolTip": "ProyectoIdentity\\Views\\Cuentas\\Registro.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-29T07:20:39.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LoginRegistroVistaParcial.cshtml",
+              "DocumentMoniker": "C:\\Users\\prryd\\source\\repos\\ProyectoIdentity\\ProyectoIdentity\\Views\\Shared\\_LoginRegistroVistaParcial.cshtml",
+              "RelativeDocumentMoniker": "ProyectoIdentity\\Views\\Shared\\_LoginRegistroVistaParcial.cshtml",
+              "ToolTip": "C:\\Users\\prryd\\source\\repos\\ProyectoIdentity\\ProyectoIdentity\\Views\\Shared\\_LoginRegistroVistaParcial.cshtml",
+              "RelativeToolTip": "ProyectoIdentity\\Views\\Shared\\_LoginRegistroVistaParcial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-29T07:15:45.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\prryd\\source\\repos\\ProyectoIdentity\\ProyectoIdentity\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProyectoIdentity\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\prryd\\source\\repos\\ProyectoIdentity\\ProyectoIdentity\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProyectoIdentity\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-29T07:11:34.223Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

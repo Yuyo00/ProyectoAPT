@@ -1,0 +1,61 @@
+﻿@model AccesoViewModel
+
+@{
+    ViewData["Title"] = "Acceso de Usuario";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card card-dark">
+    <div class="card-body" >
+        <h3 class="card-title text-center"> Acceso de Usuario</h3>
+        <form asp-controller="Cuentas" asp-action="Acceso" asp-route-returnurl="@ViewData["ReturnUrl"]" method="post">
+            <div class="text-danger" asp-validation-summary="All"></div>
+
+            <div class="row mt-4">
+                <div class="col-sm-6">
+
+                    <div class="mb-3">
+                        <label asp-for="Email" class="col-md-2"></label>
+                        <input asp-for="Email" class="form-control" placeholder="Ingresa tu email" />
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="Password" class="col-md-2"></label>
+                        <input asp-for="Password" class="form-control" placeholder="Ingresa tu contraseña" />
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <div class="custom-check">
+                            <label asp-for="RememberMe">
+                            <input asp-for="RememberMe" />
+                            @Html.DisplayNameFor(m => m.RememberMe)
+                            </label>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-4 offset-2">
+                    <h3>Aquí acceso aplicaciónes externas</h3> 
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-sm-6">
+                    <button type="submit" class="btn btn-danger btn-success w-100 btn-lg">Acceder <i class="bi bi-arrow-right-square"></i>
+ </button>
+                    <p> <a asp-action="Registro">Crear nueva cuenta</a></p>
+                    <p> <a asp-action="OlvidoPassword">Olvidaste tu contraseña</a></p>
+                </div>
+            </div>
+
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
